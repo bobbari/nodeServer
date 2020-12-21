@@ -12,7 +12,8 @@ Feature
 
 *    validatetion
 *    Authentication,
-</>    Code Patter( route => auth middleware => controller )
+
+</>    Code Pattern ( route => auth middleware => controller )
     
 Mongodb
 
