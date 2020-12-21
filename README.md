@@ -2,11 +2,11 @@ Node Rest Api project
 
 packages 
 
->    JWT 
->    bcrypt
->    Joi validation Schema
->    Mongoose
->    dotenv
+>    JWT, 
+>    bcrypt,
+>    Joi validation Schema,
+>    Mongoose,
+>    dotenv,
 
 Feature
 
